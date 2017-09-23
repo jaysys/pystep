@@ -1,0 +1,135 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ALLOWED_HOSTS	../dj/blog/blog/settings.py	/^ALLOWED_HOSTS = []$/;"	kind:variable	line:28
+AUTH_PASSWORD_VALIDATORS	../dj/blog/blog/settings.py	/^AUTH_PASSWORD_VALIDATORS = [$/;"	kind:variable	line:87
+AppConfig	../dj/blog/polls/apps.py	/^from django.apps import AppConfig$/;"	kind:namespace	line:4
+BASE_DIR	../dj/blog/blog/settings.py	/^BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))$/;"	kind:variable	line:16
+Canvas	../numpy/hello.py	/^from Tkinter import HIDDEN, NORMAL, Tk, Canvas$/;"	kind:namespace	line:4
+DATABASES	../dj/blog/blog/settings.py	/^DATABASES = {$/;"	kind:variable	line:76
+DEBUG	../dj/blog/blog/settings.py	/^DEBUG = True$/;"	kind:variable	line:26
+HIDDEN	../numpy/hello.py	/^from Tkinter import HIDDEN, NORMAL, Tk, Canvas$/;"	kind:namespace	line:4
+HttpResponse	../dj/blog/polls/views.py	/^from django.http import HttpResponse$/;"	kind:namespace	line:7
+INSTALLED_APPS	../dj/blog/blog/settings.py	/^INSTALLED_APPS = [$/;"	kind:variable	line:33
+LANGUAGE_CODE	../dj/blog/blog/settings.py	/^LANGUAGE_CODE = 'en-us'$/;"	kind:variable	line:106
+MIDDLEWARE	../dj/blog/blog/settings.py	/^MIDDLEWARE = [$/;"	kind:variable	line:42
+NORMAL	../numpy/hello.py	/^from Tkinter import HIDDEN, NORMAL, Tk, Canvas$/;"	kind:namespace	line:4
+PollsConfig	../dj/blog/polls/apps.py	/^class PollsConfig(AppConfig):$/;"	kind:class	line:7
+ROOT_URLCONF	../dj/blog/blog/settings.py	/^ROOT_URLCONF = 'blog.urls'$/;"	kind:variable	line:52
+SECRET_KEY	../dj/blog/blog/settings.py	/^SECRET_KEY = 'mln7@2hb#fi-3u08s8y=od5%a8(rvi$n9!q=^v2*i)_l6gbs14'$/;"	kind:variable	line:23
+STATIC_URL	../dj/blog/blog/settings.py	/^STATIC_URL = '\/static\/'$/;"	kind:variable	line:120
+TEMPLATES	../dj/blog/blog/settings.py	/^TEMPLATES = [$/;"	kind:variable	line:54
+TIME_ZONE	../dj/blog/blog/settings.py	/^TIME_ZONE = 'UTC'$/;"	kind:variable	line:108
+TestCase	../dj/blog/polls/tests.py	/^from django.test import TestCase$/;"	kind:namespace	line:4
+Tk	../numpy/hello.py	/^from Tkinter import HIDDEN, NORMAL, Tk, Canvas$/;"	kind:namespace	line:4
+USE_I18N	../dj/blog/blog/settings.py	/^USE_I18N = True$/;"	kind:variable	line:110
+USE_L10N	../dj/blog/blog/settings.py	/^USE_L10N = True$/;"	kind:variable	line:112
+USE_TZ	../dj/blog/blog/settings.py	/^USE_TZ = True$/;"	kind:variable	line:114
+WSGI_APPLICATION	../dj/blog/blog/settings.py	/^WSGI_APPLICATION = 'blog.wsgi.application'$/;"	kind:variable	line:70
+__init__	../meetup/module/mod_01.py	/^    def __init__(self, name, age):$/;"	kind:member	line:15
+__init__	../numpy/mod/data.py	/^    def __init__(self, name):$/;"	kind:member	line:8
+__init__.py	../dj/blog/blog/__init__.py	1;"	kind:file	line:1
+__init__.py	../dj/blog/polls/__init__.py	1;"	kind:file	line:1
+__init__.py	../dj/blog/polls/migrations/__init__.py	1;"	kind:file	line:1
+__init__.py	../meetup/__init__.py	1;"	kind:file	line:1
+__init__.py	../meetup/module/__init__.py	1;"	kind:file	line:1
+__init__.py	../numpy/__init__.py	1;"	kind:file	line:1
+__init__.py	../numpy/mod/__init__.py	1;"	kind:file	line:1
+a	../meetup/main.py	/^a = person.human("Joo", 45)$/;"	kind:variable	line:12
+a	../numpy/hello.py	/^a = me.info("JAeHO")$/;"	kind:variable	line:11
+add	../meetup/module/mod_03.py	/^def add(a,b):$/;"	kind:function	line:7
+admin	../dj/blog/blog/urls.py	/^from django.contrib import admin$/;"	kind:namespace	line:17
+admin	../dj/blog/polls/admin.py	/^from django.contrib import admin$/;"	kind:namespace	line:4
+admin.py	../dj/blog/polls/admin.py	1;"	kind:file	line:1
+application	../dj/blog/blog/wsgi.py	/^application = get_wsgi_application()$/;"	kind:variable	line:16
+apps.py	../dj/blog/polls/apps.py	1;"	kind:file	line:1
+ax1	../numpy/sp.py	/^ax1 = fig.add_subplot(211)$/;"	kind:variable	line:14
+ax2	../numpy/sp.py	/^ax2 = fig.add_subplot(212)$/;"	kind:variable	line:31
+c	../numpy/hello.py	/^c = Canvas(root, width=500, height = 400)$/;"	kind:variable	line:15
+calc	../meetup/main.py	/^import module.mod_03 as calc$/;"	kind:namespace	line:6
+calc	../meetup/module/mod_01.py	/^def calc(a,b):$/;"	kind:function	line:7
+conjunto_puntos	../numpy/np.py	/^conjunto_puntos = []$/;"	kind:variable	line:5
+dan	../meetup/main.py	/^import module.mod_02 as dan$/;"	kind:namespace	line:5
+data.py	../numpy/mod/data.py	1;"	kind:file	line:1
+divide	../meetup/module/mod_03.py	/^def divide(a,b):$/;"	kind:function	line:16
+django	../dj/blog/manage.py	/^            import django$/;"	kind:namespace	line:14
+execute_from_command_line	../dj/blog/manage.py	/^        from django.core.management import execute_from_command_line$/;"	kind:namespace	line:8
+fig	../numpy/sp.py	/^fig = plt.figure(figsize=(8, 6))$/;"	kind:variable	line:12
+get_wsgi_application	../dj/blog/blog/wsgi.py	/^from django.core.wsgi import get_wsgi_application$/;"	kind:namespace	line:12
+gugu	../meetup/module/mod_02.py	/^def gugu():$/;"	kind:function	line:3
+hello	../meetup/module/mod_01.py	/^    def hello(self):$/;"	kind:member	line:21
+hello	../numpy/mod/data.py	/^    def hello(self):$/;"	kind:member	line:11
+hello	../numpy/mod/data.py	/^def hello():$/;"	kind:function	line:3
+hello.py	../numpy/hello.py	1;"	kind:file	line:1
+human	../meetup/module/mod_01.py	/^class human:$/;"	kind:class	line:12
+include	../dj/blog/blog/urls.py	/^from django.conf.urls import include, url$/;"	kind:namespace	line:16
+index	../dj/blog/polls/views.py	/^def index(request):$/;"	kind:function	line:9
+info	../meetup/module/mod_01.py	/^    def info(self):$/;"	kind:member	line:26
+info	../numpy/mod/data.py	/^class info:$/;"	kind:class	line:7
+kde1	../numpy/sp.py	/^kde1 = stats.gaussian_kde(x1)$/;"	kind:variable	line:9
+kde2	../numpy/sp.py	/^kde2 = stats.gaussian_kde(x1, bw_method='silverman')$/;"	kind:variable	line:10
+kde3	../numpy/sp.py	/^kde3 = stats.gaussian_kde(x2)$/;"	kind:variable	line:28
+kde4	../numpy/sp.py	/^kde4 = stats.gaussian_kde(x2, bw_method='silverman')$/;"	kind:variable	line:29
+main.py	../meetup/main.py	1;"	kind:file	line:1
+maker	../meetup/module/mod_01.py	/^maker = 'ROBOT'$/;"	kind:variable	line:5
+manage.py	../dj/blog/manage.py	1;"	kind:file	line:1
+matplotlib	../numpy/np.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:16
+matplotlib	../numpy/sp.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:2
+me	../numpy/hello.py	/^import mod.data as me$/;"	kind:namespace	line:6
+mod	../numpy/hello.py	/^import mod.data as me$/;"	kind:namespace	line:6
+mod_01.py	../meetup/module/mod_01.py	1;"	kind:file	line:1
+mod_02.py	../meetup/module/mod_02.py	1;"	kind:file	line:1
+mod_03.py	../meetup/module/mod_03.py	1;"	kind:file	line:1
+models	../dj/blog/polls/models.py	/^from django.db import models$/;"	kind:namespace	line:4
+models.py	../dj/blog/polls/models.py	1;"	kind:file	line:1
+module	../meetup/main.py	/^import module.mod_01 as person$/;"	kind:namespace	line:4
+module	../meetup/main.py	/^import module.mod_02 as dan$/;"	kind:namespace	line:5
+module	../meetup/main.py	/^import module.mod_03 as calc$/;"	kind:namespace	line:6
+multiply	../meetup/module/mod_03.py	/^def multiply(a,b):$/;"	kind:function	line:3
+name	../dj/blog/polls/apps.py	/^    name = 'polls'$/;"	kind:variable	line:8
+np	../numpy/np.py	/^import numpy as np$/;"	kind:namespace	line:2
+np	../numpy/sp.py	/^import numpy as np$/;"	kind:namespace	line:1
+np.py	../numpy/np.py	1;"	kind:file	line:1
+num_puntos	../numpy/np.py	/^num_puntos = 100$/;"	kind:variable	line:4
+os	../dj/blog/blog/settings.py	/^import os$/;"	kind:namespace	line:13
+os	../dj/blog/blog/wsgi.py	/^import os$/;"	kind:namespace	line:10
+os	../dj/blog/manage.py	/^import os$/;"	kind:namespace	line:2
+painter	../numpy/hello.py	/^painter = turtle.RawTurtle(c)$/;"	kind:variable	line:20
+person	../meetup/main.py	/^import module.mod_01 as person$/;"	kind:namespace	line:4
+plt	../numpy/np.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:16
+plt	../numpy/sp.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:2
+render	../dj/blog/polls/views.py	/^from django.shortcuts import render$/;"	kind:namespace	line:3
+root	../numpy/hello.py	/^root = Tk()$/;"	kind:variable	line:14
+settings.py	../dj/blog/blog/settings.py	1;"	kind:file	line:1
+sp.py	../numpy/sp.py	1;"	kind:file	line:1
+stats	../numpy/sp.py	/^from scipy import stats$/;"	kind:namespace	line:3
+subtract	../meetup/module/mod_03.py	/^def subtract(a,b):$/;"	kind:function	line:12
+sys	../dj/blog/manage.py	/^import sys$/;"	kind:namespace	line:3
+sys	../meetup/main.py	/^import sys$/;"	kind:namespace	line:3
+tests.py	../dj/blog/polls/tests.py	1;"	kind:file	line:1
+turtle	../numpy/hello.py	/^import turtle$/;"	kind:namespace	line:5
+unicode_literals	../dj/blog/polls/admin.py	/^from __future__ import unicode_literals$/;"	kind:namespace	line:2
+unicode_literals	../dj/blog/polls/apps.py	/^from __future__ import unicode_literals$/;"	kind:namespace	line:2
+unicode_literals	../dj/blog/polls/models.py	/^from __future__ import unicode_literals$/;"	kind:namespace	line:2
+unicode_literals	../dj/blog/polls/tests.py	/^from __future__ import unicode_literals$/;"	kind:namespace	line:2
+unicode_literals	../dj/blog/polls/views.py	/^from __future__ import unicode_literals$/;"	kind:namespace	line:2
+url	../dj/blog/blog/urls.py	/^from django.conf.urls import include, url$/;"	kind:namespace	line:16
+url	../dj/blog/polls/urls.py	/^from django.conf.urls import url$/;"	kind:namespace	line:3
+urlpatterns	../dj/blog/blog/urls.py	/^urlpatterns = [$/;"	kind:variable	line:19
+urlpatterns	../dj/blog/polls/urls.py	/^urlpatterns = [$/;"	kind:variable	line:7
+urls.py	../dj/blog/blog/urls.py	1;"	kind:file	line:1
+urls.py	../dj/blog/polls/urls.py	1;"	kind:file	line:1
+views	../dj/blog/polls/urls.py	/^from . import views$/;"	kind:namespace	line:5
+views.py	../dj/blog/polls/views.py	1;"	kind:file	line:1
+wsgi.py	../dj/blog/blog/wsgi.py	1;"	kind:file	line:1
+x1	../numpy/np.py	/^	x1= np.random.normal(0.0, 0.9)$/;"	kind:variable	line:8
+x1	../numpy/sp.py	/^x1 = np.random.normal(size=200)  # random data, normal distribution$/;"	kind:variable	line:6
+x2	../numpy/sp.py	/^x2 = stats.t.rvs(5, size=200)  # random data, T distribution$/;"	kind:variable	line:25
+x_data	../numpy/np.py	/^x_data = [v[0] for v in conjunto_puntos]$/;"	kind:variable	line:12
+xs	../numpy/sp.py	/^xs = np.linspace(x1.min()-1, x1.max()+1, 200)$/;"	kind:variable	line:7
+xs	../numpy/sp.py	/^xs = np.linspace(x2.min() - 1, x2.max() + 1, 200)$/;"	kind:variable	line:26
+y1	../numpy/np.py	/^	y1= x1 * 0.1 + 0.3 + np.random.normal(0.0, 0.05)$/;"	kind:variable	line:9
+y_data	../numpy/np.py	/^y_data = [v[1] for v in conjunto_puntos]$/;"	kind:variable	line:13
