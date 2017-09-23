@@ -1,0 +1,65 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ALLOWED_HOSTS	../blog/settings.py	/^ALLOWED_HOSTS = []$/;"	kind:variable	line:28
+AUTH_PASSWORD_VALIDATORS	../blog/settings.py	/^AUTH_PASSWORD_VALIDATORS = [$/;"	kind:variable	line:87
+AppConfig	../polls/apps.py	/^from django.apps import AppConfig$/;"	kind:namespace	line:4
+BASE_DIR	../blog/settings.py	/^BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))$/;"	kind:variable	line:16
+DATABASES	../blog/settings.py	/^DATABASES = {$/;"	kind:variable	line:76
+DEBUG	../blog/settings.py	/^DEBUG = True$/;"	kind:variable	line:26
+HttpResponse	../polls/views.py	/^from django.http import HttpResponse$/;"	kind:namespace	line:7
+INSTALLED_APPS	../blog/settings.py	/^INSTALLED_APPS = [$/;"	kind:variable	line:33
+LANGUAGE_CODE	../blog/settings.py	/^LANGUAGE_CODE = 'en-us'$/;"	kind:variable	line:106
+MIDDLEWARE	../blog/settings.py	/^MIDDLEWARE = [$/;"	kind:variable	line:42
+PollsConfig	../polls/apps.py	/^class PollsConfig(AppConfig):$/;"	kind:class	line:7
+ROOT_URLCONF	../blog/settings.py	/^ROOT_URLCONF = 'blog.urls'$/;"	kind:variable	line:52
+SECRET_KEY	../blog/settings.py	/^SECRET_KEY = 'mln7@2hb#fi-3u08s8y=od5%a8(rvi$n9!q=^v2*i)_l6gbs14'$/;"	kind:variable	line:23
+STATIC_URL	../blog/settings.py	/^STATIC_URL = '\/static\/'$/;"	kind:variable	line:120
+TEMPLATES	../blog/settings.py	/^TEMPLATES = [$/;"	kind:variable	line:54
+TIME_ZONE	../blog/settings.py	/^TIME_ZONE = 'UTC'$/;"	kind:variable	line:108
+TestCase	../polls/tests.py	/^from django.test import TestCase$/;"	kind:namespace	line:4
+USE_I18N	../blog/settings.py	/^USE_I18N = True$/;"	kind:variable	line:110
+USE_L10N	../blog/settings.py	/^USE_L10N = True$/;"	kind:variable	line:112
+USE_TZ	../blog/settings.py	/^USE_TZ = True$/;"	kind:variable	line:114
+WSGI_APPLICATION	../blog/settings.py	/^WSGI_APPLICATION = 'blog.wsgi.application'$/;"	kind:variable	line:70
+__init__.py	../blog/__init__.py	1;"	kind:file	line:1
+__init__.py	../polls/__init__.py	1;"	kind:file	line:1
+__init__.py	../polls/migrations/__init__.py	1;"	kind:file	line:1
+admin	../blog/urls.py	/^from django.contrib import admin$/;"	kind:namespace	line:17
+admin	../polls/admin.py	/^from django.contrib import admin$/;"	kind:namespace	line:4
+admin.py	../polls/admin.py	1;"	kind:file	line:1
+application	../blog/wsgi.py	/^application = get_wsgi_application()$/;"	kind:variable	line:16
+apps.py	../polls/apps.py	1;"	kind:file	line:1
+django	../manage.py	/^            import django$/;"	kind:namespace	line:14
+execute_from_command_line	../manage.py	/^        from django.core.management import execute_from_command_line$/;"	kind:namespace	line:8
+get_wsgi_application	../blog/wsgi.py	/^from django.core.wsgi import get_wsgi_application$/;"	kind:namespace	line:12
+include	../blog/urls.py	/^from django.conf.urls import include, url$/;"	kind:namespace	line:16
+index	../polls/views.py	/^def index(request):$/;"	kind:function	line:9
+manage.py	../manage.py	1;"	kind:file	line:1
+models	../polls/models.py	/^from django.db import models$/;"	kind:namespace	line:4
+models.py	../polls/models.py	1;"	kind:file	line:1
+name	../polls/apps.py	/^    name = 'polls'$/;"	kind:variable	line:8
+os	../blog/settings.py	/^import os$/;"	kind:namespace	line:13
+os	../blog/wsgi.py	/^import os$/;"	kind:namespace	line:10
+os	../manage.py	/^import os$/;"	kind:namespace	line:2
+render	../polls/views.py	/^from django.shortcuts import render$/;"	kind:namespace	line:3
+settings.py	../blog/settings.py	1;"	kind:file	line:1
+sys	../manage.py	/^import sys$/;"	kind:namespace	line:3
+tests.py	../polls/tests.py	1;"	kind:file	line:1
+unicode_literals	../polls/admin.py	/^from __future__ import unicode_literals$/;"	kind:namespace	line:2
+unicode_literals	../polls/apps.py	/^from __future__ import unicode_literals$/;"	kind:namespace	line:2
+unicode_literals	../polls/models.py	/^from __future__ import unicode_literals$/;"	kind:namespace	line:2
+unicode_literals	../polls/tests.py	/^from __future__ import unicode_literals$/;"	kind:namespace	line:2
+unicode_literals	../polls/views.py	/^from __future__ import unicode_literals$/;"	kind:namespace	line:2
+url	../blog/urls.py	/^from django.conf.urls import include, url$/;"	kind:namespace	line:16
+url	../polls/urls.py	/^from django.conf.urls import url$/;"	kind:namespace	line:3
+urlpatterns	../blog/urls.py	/^urlpatterns = [$/;"	kind:variable	line:19
+urlpatterns	../polls/urls.py	/^urlpatterns = [$/;"	kind:variable	line:7
+urls.py	../blog/urls.py	1;"	kind:file	line:1
+urls.py	../polls/urls.py	1;"	kind:file	line:1
+views	../polls/urls.py	/^from . import views$/;"	kind:namespace	line:5
+views.py	../polls/views.py	1;"	kind:file	line:1
+wsgi.py	../blog/wsgi.py	1;"	kind:file	line:1

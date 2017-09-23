@@ -1,0 +1,51 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Canvas	../hello.py	/^from Tkinter import HIDDEN, NORMAL, Tk, Canvas$/;"	kind:namespace	line:4
+HIDDEN	../hello.py	/^from Tkinter import HIDDEN, NORMAL, Tk, Canvas$/;"	kind:namespace	line:4
+NORMAL	../hello.py	/^from Tkinter import HIDDEN, NORMAL, Tk, Canvas$/;"	kind:namespace	line:4
+Tk	../hello.py	/^from Tkinter import HIDDEN, NORMAL, Tk, Canvas$/;"	kind:namespace	line:4
+__init__	../mod/data.py	/^    def __init__(self, name):$/;"	kind:member	line:8
+__init__.py	../__init__.py	1;"	kind:file	line:1
+__init__.py	../mod/__init__.py	1;"	kind:file	line:1
+a	../hello.py	/^a = me.info("JAeHO")$/;"	kind:variable	line:11
+ax1	../sp.py	/^ax1 = fig.add_subplot(211)$/;"	kind:variable	line:14
+ax2	../sp.py	/^ax2 = fig.add_subplot(212)$/;"	kind:variable	line:31
+c	../hello.py	/^c = Canvas(root, width=500, height = 400)$/;"	kind:variable	line:15
+conjunto_puntos	../np.py	/^conjunto_puntos = []$/;"	kind:variable	line:5
+data.py	../mod/data.py	1;"	kind:file	line:1
+fig	../sp.py	/^fig = plt.figure(figsize=(8, 6))$/;"	kind:variable	line:12
+hello	../mod/data.py	/^    def hello(self):$/;"	kind:member	line:11
+hello	../mod/data.py	/^def hello():$/;"	kind:function	line:3
+hello.py	../hello.py	1;"	kind:file	line:1
+info	../mod/data.py	/^class info:$/;"	kind:class	line:7
+kde1	../sp.py	/^kde1 = stats.gaussian_kde(x1)$/;"	kind:variable	line:9
+kde2	../sp.py	/^kde2 = stats.gaussian_kde(x1, bw_method='silverman')$/;"	kind:variable	line:10
+kde3	../sp.py	/^kde3 = stats.gaussian_kde(x2)$/;"	kind:variable	line:28
+kde4	../sp.py	/^kde4 = stats.gaussian_kde(x2, bw_method='silverman')$/;"	kind:variable	line:29
+matplotlib	../np.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:16
+matplotlib	../sp.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:2
+me	../hello.py	/^import mod.data as me$/;"	kind:namespace	line:6
+mod	../hello.py	/^import mod.data as me$/;"	kind:namespace	line:6
+np	../np.py	/^import numpy as np$/;"	kind:namespace	line:2
+np	../sp.py	/^import numpy as np$/;"	kind:namespace	line:1
+np.py	../np.py	1;"	kind:file	line:1
+num_puntos	../np.py	/^num_puntos = 100$/;"	kind:variable	line:4
+painter	../hello.py	/^painter = turtle.RawTurtle(c)$/;"	kind:variable	line:20
+plt	../np.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:16
+plt	../sp.py	/^import matplotlib.pyplot as plt$/;"	kind:namespace	line:2
+root	../hello.py	/^root = Tk()$/;"	kind:variable	line:14
+sp.py	../sp.py	1;"	kind:file	line:1
+stats	../sp.py	/^from scipy import stats$/;"	kind:namespace	line:3
+turtle	../hello.py	/^import turtle$/;"	kind:namespace	line:5
+x1	../np.py	/^	x1= np.random.normal(0.0, 0.9)$/;"	kind:variable	line:8
+x1	../sp.py	/^x1 = np.random.normal(size=200)  # random data, normal distribution$/;"	kind:variable	line:6
+x2	../sp.py	/^x2 = stats.t.rvs(5, size=200)  # random data, T distribution$/;"	kind:variable	line:25
+x_data	../np.py	/^x_data = [v[0] for v in conjunto_puntos]$/;"	kind:variable	line:12
+xs	../sp.py	/^xs = np.linspace(x1.min()-1, x1.max()+1, 200)$/;"	kind:variable	line:7
+xs	../sp.py	/^xs = np.linspace(x2.min() - 1, x2.max() + 1, 200)$/;"	kind:variable	line:26
+y1	../np.py	/^	y1= x1 * 0.1 + 0.3 + np.random.normal(0.0, 0.05)$/;"	kind:variable	line:9
+y_data	../np.py	/^y_data = [v[1] for v in conjunto_puntos]$/;"	kind:variable	line:13

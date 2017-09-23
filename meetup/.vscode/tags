@@ -1,0 +1,31 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+__init__	../module/mod_01.py	/^    def __init__(self, name, age):$/;"	kind:member	line:11
+__init__.py	../__init__.py	1;"	kind:file	line:1
+__init__.py	../module/__init__.py	1;"	kind:file	line:1
+a	../main.py	/^a = person.human("Joo", 45)$/;"	kind:variable	line:11
+add	../module/mod_03.py	/^def add(a,b):$/;"	kind:function	line:7
+calc	../main.py	/^import module.mod_03 as calc$/;"	kind:namespace	line:6
+calc	../module/mod_01.py	/^def calc(a,b):$/;"	kind:function	line:5
+dan	../main.py	/^import module.mod_02 as dan$/;"	kind:namespace	line:5
+divide	../module/mod_03.py	/^def divide(a,b):$/;"	kind:function	line:16
+gugu	../module/mod_02.py	/^def gugu():$/;"	kind:function	line:3
+hello	../module/mod_01.py	/^    def hello(self):$/;"	kind:member	line:17
+human	../module/mod_01.py	/^class human:$/;"	kind:class	line:8
+info	../module/mod_01.py	/^    def info(self):$/;"	kind:member	line:22
+main.py	../main.py	1;"	kind:file	line:1
+maker	../module/mod_01.py	/^maker = 'ROBOT'$/;"	kind:variable	line:3
+mod_01.py	../module/mod_01.py	1;"	kind:file	line:1
+mod_02.py	../module/mod_02.py	1;"	kind:file	line:1
+mod_03.py	../module/mod_03.py	1;"	kind:file	line:1
+module	../main.py	/^import module.mod_01 as person$/;"	kind:namespace	line:4
+module	../main.py	/^import module.mod_02 as dan$/;"	kind:namespace	line:5
+module	../main.py	/^import module.mod_03 as calc$/;"	kind:namespace	line:6
+multiply	../module/mod_03.py	/^def multiply(a,b):$/;"	kind:function	line:3
+person	../main.py	/^import module.mod_01 as person$/;"	kind:namespace	line:4
+subtract	../module/mod_03.py	/^def subtract(a,b):$/;"	kind:function	line:12
+sys	../main.py	/^import sys$/;"	kind:namespace	line:3
